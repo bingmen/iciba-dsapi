@@ -1,8 +1,8 @@
-# iciba-dsapi-json-0.3.1.yml
+# iciba-dsapi-README-0.6.0.yml
 # github.com/shenjuexiao
-# 20261113
+# 20261120
 
-# .github/workflows/iciba-dsapi-json.yml
+# .github/workflows/iciba-dsapi-README.yml
 name: iciba-dsapi-json
 
 on:
@@ -36,6 +36,9 @@ jobs:
       - name: Run iciba-dsapi-json script
         run: python iciba-dsapi-json-10.py
 
+      - name: Run iciba-dsapi-README script
+        run: python iciba-dsapi-README.py
+        
       - name: Configure git identity
         run: |
           git config user.name "github-actions[bot]"
