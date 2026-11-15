@@ -1,20 +1,22 @@
 # 词霸每日一句
 
+![The night is long, but so is our list of small joys.](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png)
+
 ## 🚀 项目
 
 [bingmen/iciba-dsapi](https://github.com/bingmen/iciba-dsapi)
 
 ## 😀 简介
 
-📱 词霸每日一句，收集时间段 2018-01-01 ~ 当前日期（UTC +8）。
+📱 词霸每日一句，收集时间段 2018-01-01 ~ 今日，每日自动运行工作流。
 
 ## 📁 目录
 
 - `.github/workflows/iciba-dsapi-json.yml` — 工作流
 - `iciba-dsapi-json.py` — 每日更新 PY 脚本
-- `dsapi-json-{year}/dsapi-{sid}-{date}.json` — 每日 JSON 对象
-- `dsapi-json-{year}.json` — 年度  JSON 数组
-- `README-dsapi-{year}.md` — 年度  MD 文件
+- `dsapi-json-2026/*.json` — 每日 JSON 对象
+- `dsapi-json-2026.json` — 年度  JSON 数组
+- `dsapi-json-2026.md` — 年度  MD 文件
 
 ## 🗂️ 归档
 
