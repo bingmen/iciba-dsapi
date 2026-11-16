@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![The night is long, but so is our list of small joys.](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png)
+![A short walk can untangle a long worry.](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png)
 
 ## 🚀 项目
 
