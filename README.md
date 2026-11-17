@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![A short walk can untangle a long worry.](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png)
+![The north wind sorts the leaves from the strong branches.](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png)
 
 ## 🚀 项目
 
