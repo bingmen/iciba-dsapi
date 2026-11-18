@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![The north wind sorts the leaves from the strong branches.](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png)
+![Keep a warm pocket and a warmer heart.](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png)
 
 ## 🚀 项目
 
