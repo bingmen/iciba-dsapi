@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![Keep a warm pocket and a warmer heart.](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png)
+![Some doors only open for those who knock again.](https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png)
 
 ## 🚀 项目
 
