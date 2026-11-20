@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![Some doors only open for those who knock again.](https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png)
+![Even the longest night ends with a sunrise.](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png)
 
 ## 🚀 项目
 
