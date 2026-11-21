@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![Even the longest night ends with a sunrise.](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png)
+![Gratitude turns what we have into enough.](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png)
 
 ## 🚀 项目
 
