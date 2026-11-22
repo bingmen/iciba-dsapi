@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![Gratitude turns what we have into enough.](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png)
+![Light snow whispers that the year is folding up.](https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png)
 
 ## 🚀 项目
 
