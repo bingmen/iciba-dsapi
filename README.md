@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![Light snow whispers that the year is folding up.](https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png)
+![A pot of soup warms more than the body.](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png)
 
 ## 🚀 项目
 
