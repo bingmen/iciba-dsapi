@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![A pot of soup warms more than the body.](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png)
+![Your voice deserves the same kindness you give.](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png)
 
 ## 🚀 项目
 
