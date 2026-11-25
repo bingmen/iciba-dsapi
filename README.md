@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![Your voice deserves the same kindness you give.](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png)
+![It does not do to dwell on dreams and forget to live.](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png)
 
 ## 🚀 项目
 
