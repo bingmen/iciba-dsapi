@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![It does not do to dwell on dreams and forget to live.](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png)
+![The winter sun pours gold on every bare branch.](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png)
 
 ## 🚀 项目
 
