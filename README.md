@@ -1,6 +1,6 @@
 # 词霸每日一句
 
-![The winter sun pours gold on every bare branch.](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png)
+![There is beauty in letting go.](https://staticedu-wps-cache.iciba.com/image/8f826fe4889239c224417136d408aecd.png)
 
 ## 🚀 项目
 
